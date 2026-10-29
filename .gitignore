@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+.adk/
+runs/geap_calls_and_responses_for_analysis.json
